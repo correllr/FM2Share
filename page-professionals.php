@@ -140,7 +140,7 @@
 	
 <div class="background-cta">	
 	<div class="cta">
-		<h2>Wil jij member worden? Meld je vandaag nog aan.</h2><a class="buttonproducten" href="http://localhost/wordpress/contact/">Member worden</a>
+		<h2>Wil jij member worden? Meld je vandaag nog aan.</h2><a class="buttonproducten" href="/contact/">Member worden</a>
 	</div>
 </div>
 	
