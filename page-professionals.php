@@ -66,7 +66,7 @@
 				<div class="subtitel-m"><h4>Manager | Coaching | Ontwikkeling | Expertise</h4></div>
 			</div>
 			<div class="professional-info">
-				<div class="member"><div class="social-overlay"><a href="Wilfred.schipperen@fm2share.nl" target="_blank"><i class="far fa-envelope"></i></a><a href="https://www.linkedin.com/in/wilfred-schipperen-5220499" target="_blank"><i class="fab fa-linkedin-in"></i></a></div><img src="/wp-content/uploads/2018/05/fm2share-wilfred-schipperen.jpg"></div>
+				<div class="member"><div class="social-overlay"><a href="Wilfred.schipperen@fm2share.nl" target="_blank"><i class="far fa-envelope"></i></a><a href="https://www.linkedin.com/in/wilfred-schipperen-5220499" target="_blank"><i class="fab fa-linkedin-in"></i></a></div><img src="/wp-content/uploads/2018/06/fm2share-wilfred-schipperen.jpg"></div>
 				<div class="p-titel"><h3>Wilfred Schipperen</h3></div>
 				<div class="subtitel-m"><h4>Project manager hospitality (cure en care) eten & drinken en gastvrijheid</h4></div>
 			</div>
