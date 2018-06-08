@@ -36,7 +36,7 @@
 
 		<div class="futureof">
 			<h3>The future of facility management</h3>
-			<video width="100%" controls>
+			<video width="100%" controls preload='none' poster='/wp-content/uploads/2018/06/videofm2share.png'>
 				<source src="/video/futureoffm.mp4" type="video/mp4">
 				Your browser does not support the video tag.
 			</video> 
