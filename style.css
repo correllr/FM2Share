@@ -1535,6 +1535,10 @@ div.slide-text {
 	.site-nav ul li a:visited {
 		color: inherit;
 	}
+	
+	nav.site-nav ul li a:hover {
+		color: rgba(0, 106, 140, 1);
+	}
 }
 
 @media screen and (max-width: 880px) {
@@ -1957,7 +1961,7 @@ TD, TH { height: 30px; }
 	
 	@media screen and (min-width: 800px) and (max-width: 849px) {
 		#nieuws-blok-page {
-			width: 360px;
+			width: 100%;
 		}
 		.algemeen-nieuws {
 			width: 100%;
