@@ -4,17 +4,17 @@
 <div class='layer'>	
 	<div id="video-background">	
 			<video id="video" class="video" playsinline="" loop="" muted="" autoplay="">
-				<source src="video/bannerfm2share.mp4" type="video/mp4">
+				<source src="video/videobannerfm2share.mp4" type="video/mp4">
 			</video>
 	</div>
 	<div id="video-background-tablet">	
 			<video width="780" id="video" class="video" playsinline="" loop="" muted="" autoplay="">
-				<source src="video/bannerfm2share.mp4" type="video/mp4">
+				<source src="video/videobannerfm2share.mp4" type="video/mp4">
 			</video>
 	</div>
 	<div id="video-background-mobile">	
 			<video width="480" id="video" class="video" playsinline="" loop="" muted="" autoplay="">
-				<source src="video/bannerfm2share.mp4" type="video/mp4">
+				<source src="video/videobannerfm2share.mp4" type="video/mp4">
 			</video>
 	</div>
 	<div id='hometitles'>
