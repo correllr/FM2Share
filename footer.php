@@ -30,7 +30,7 @@
 </div>
 
 <div class="copyright">
-	&copy; <?php echo date('Y');?> <?php bloginfo('name'); ?>FM2Share <a href="/wp-content/uploads/2018/06/AVG-2018-Privacy-Statement-FM2Share.pdf">Privacy Statement</a>
+	&copy; <?php echo date('Y');?> <?php bloginfo('name'); ?>FM2Share <a href="/wp-content/uploads/2018/06/AVG-2018-Privacy-Statement-FM2Share.pdf" target="_blank">Privacy Statement</a>
 </div>
 
 </div><!-- container -->

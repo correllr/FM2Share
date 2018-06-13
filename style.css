@@ -2054,6 +2054,9 @@ body::-webkit-scrollbar-thumb {
 	margin-left: 5px;
 }
 
+.wpcf7-form span {
+	font-style: italic;
+}
 
 input
 {
@@ -2076,7 +2079,7 @@ textarea {
 	color: #151515;
 	font-family: 'Roboto', Arial, sans-serif;
 	font-size: 15px;
-	height: 150px;
+	height: 125px;
 }
 
 .wpcf7-submit {
