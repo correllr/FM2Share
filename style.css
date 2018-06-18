@@ -300,7 +300,7 @@ h2.title {
 .pitch {
 	width: 100%;
 	background-color: #fff;
-	padding: 20px 0px 60px 0px;
+	padding: 60px 0px 60px 0px;
 }
 
 .titelhome {
@@ -1371,7 +1371,7 @@ div.slide-text {
 }
 
 .contactgegevens {
-	max-width: 45%;
+	max-width: 35%;
 	min-width: 220px; /* Only change together with contactformspace h3 */
 	line-height: 1.7em;
 	padding-right: 10px;
@@ -1389,7 +1389,7 @@ div.slide-text {
 }
 
 .contactformspace {
-	width: 45%;
+	width: 55%;
 	min-width: 250px;
 }
 
