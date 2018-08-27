@@ -598,6 +598,7 @@ div.copyright {
 	margin: auto;
 	font-size: 80%;
 	background: #fff;
+	padding: 8px;
 }
 
 .copyright a:link,
@@ -1815,13 +1816,13 @@ div.slide-text {
 	
 	h1.title {
 		font-size: 23px;
-		margin-top: 0px;
+		margin-top: 10px;
 		z-index:100;
 	}
 	
 	h2.title {
 		font-size: 20px;
-		margin-top: 10px;
+		margin-top: 20px;
 		padding-bottom: 10px;
 		z-index: 100;
 	}
@@ -1915,7 +1916,7 @@ div.slide-text {
 	
 	.footer3 {
 		text-align: left;
-		margin-bottom: 5px;
+		margin-bottom: 20px;
 		width: 90%;
 	}
 }
@@ -2106,10 +2107,12 @@ span.wpcf7-list-item {
 	display: flex;
 }
 
-input[type=checkbox] {
-	width: 5px;
-	margin-right: 10px
+div.wpcf7 input[type="checkbox"] {
+	-webkit-appearance: checkbox;
+	width: 25px;
+	margin-right: 10px;
 }
+
 
 
 /* Aanmeldformulier nieuwsbrief */

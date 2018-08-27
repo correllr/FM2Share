@@ -56,7 +56,7 @@
 	<div class="membersblok">	
 		<div class="flexboxmembers">
 			<div class="professional-info">
-				<div class="member"><div class="social-overlay"><a href="mailto:maxine.mccombs@fm2share.nl" target="_blank"><i class="far fa-envelope"></i></a><a href="https://www.linkedin.com/in/maxinemccombs/" target="_blank"><i class="fab fa-linkedin-in"></i></a></div><img src="/wp-content/uploads/2018/05/fm2share-maxine-mccombs.jpg"></div>
+				<div class="member"><div class="social-overlay"><a href="mailto:maxine.mccombs@fm2share.nl" target="_blank"><i class="far fa-envelope"></i></a><a href="https://www.linkedin.com/in/maxinemccombs/" target="_blank"><i class="fab fa-linkedin-in"></i></a></div><img src="/wp-content/uploads/2018/08/Maxine-McCombs-e1535357895391.jpg"></div>
 				<h3>Maxine McCombs</h3>
 				<h4>Projectmanager | Interim Manager Facility | Management | Trainer</h4>
 			</div>
@@ -68,7 +68,7 @@
 			<div class="professional-info">
 				<div class="member"><div class="social-overlay"><a href="mailto:Wilfred.schipperen@fm2share.nl" target="_blank"><i class="far fa-envelope"></i></a><a href="https://www.linkedin.com/in/wilfred-schipperen-5220499" target="_blank"><i class="fab fa-linkedin-in"></i></a></div><img src="/wp-content/uploads/2018/06/fm2share-wilfred-schipperen.jpg"></div>
 				<div class="p-titel"><h3>Wilfred Schipperen</h3></div>
-				<div class="subtitel-m"><h4>Project manager hospitality (cure en care) eten & drinken en gastvrijheid</h4></div>
+				<div class="subtitel-m"><h4>Projectmanager proces performance | Cultuurmanagement | Hospitality | Klantwaarde</h4></div>
 			</div>
 		</div>
 	</div>
@@ -116,6 +116,11 @@
 				<div class="member"><div class="social-overlay"><a href="https://www.linkedin.com/in/annemiekdemeulmeester/" target="_blank"><i class="fab fa-linkedin-in"></i></a></div><img src="/wp-content/uploads/2018/05/fm2share-annemiek-de-meulmeester-grobbe.jpg"></div>
 				<div class="p-titel"><h3>Annemiek de Meulmeester</h3></div>
 				<div class="subtitel-m"><h4>Coaching & (team)building</h4></div>
+			</div>
+			<div class="professional-info">
+				<div class="member"><div class="social-overlay"><a href="https://www.linkedin.com/in/michellewerkt/" target="_blank"><i class="fab fa-linkedin-in"></i></a></div><img src="/wp-content/uploads/2018/08/Michelle-van-Netten.jpg"></div>
+				<div class="p-titel"><h3>Michelle van Netten</h3></div>
+				<div class="subtitel-m"><h4>Facility management professional</h4></div>
 			</div>
 			<div class="professional-info">
 				<div class="member"><div class="social-overlay"><a href="https://www.linkedin.com/in/enijhof/" target="_blank"><i class="fab fa-linkedin-in"></i></a></div><img src="/wp-content/uploads/2018/05/fm2share-erik-nijhof.jpg"></div>
